@@ -14,10 +14,10 @@ clear; clc;
     mu_f = 0.2;             % Friction coefﬁcient between ﬂank face and workpiece
     ga   = 50*pi/180;       % Shear angle of the chip [rad]
     
-    d    = 10e-6;           % Depth of cut [m]        
-    f    = 5*1e-6;          % Up-feed per flute [m/flute]
-    R_t  = 0.1e-3;          % Radius of tool [m]
-    W_l  = 6e-6;            % Width of wear land [m]
+    d    = 5e-6;           % Depth of cut [m]        
+    f    = 7*1e-6;          % Up-feed per flute [m/flute]
+    R_t  = 0.2e-3;          % Radius of tool [m]
+    W_l  = 8e-6;            % Width of wear land [m]
     alp  = 0;               % Sweep angle is between the rotation axis of the tool and a line normal to the workpiece surface [rad]
     zeta = 0;               % Offset of one flute w.r.t. the other caused by runout
 
