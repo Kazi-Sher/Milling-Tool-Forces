@@ -1,3 +1,4 @@
+% Milling_Force.m
 % Code for milling tool force model presented in T. A. Dow, E. L. Miller, and K. Garrard, "Tool force and deflection compensation for small milling tools," 
 % Precision Engineering, vol. 28, no. 1, pp. 31–45, Jan. 2004.
 %
