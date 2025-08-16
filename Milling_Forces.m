@@ -3,6 +3,9 @@
 % Precision Engineering, vol. 28, no. 1, pp. 31–45, Jan. 2004.
 %
 % Written by Kazi Sher Ahmed (kazisherahmed@gmail.com) - July 2024
+% License: MIT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 clear; clc;
 
